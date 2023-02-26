@@ -1,0 +1,15 @@
+train: ../train_data/images/train
+val: ../train_data/images/train
+is_coco: False
+nc: 8
+names:
+  [
+    "rose",
+    "sunflower",
+    "daisy",
+    "orchid",
+    "tulip",
+    "jasmine",
+    "dandelion",
+    "saffron",
+  ]
